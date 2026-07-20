@@ -1,0 +1,8 @@
+id,name,rarity
+001,carp,common
+002,cod,common
+003,trout,common
+004,butterflyfish,uncommon
+005,snook,rare
+006,koi,legendary
+007,marlin,epic

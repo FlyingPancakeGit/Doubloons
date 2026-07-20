@@ -1,0 +1,6 @@
+id,name,rarity,price,description
+001,worm bait,common,10,+10% weight to all fish |caught (10 uses)
+002,shrimp bait,rare,100,+30% weight to all fish |caught (10 uses)
+003,copper bait,uncommon,50,+10% chance of catching |a glowing fish (10 uses)
+004,silver bait,rare,150,+30% chance of catching |a glowing fish (10 uses)
+005,gold bait,legendary,300,+90% chance of catching |a glowing fish (10 uses)
